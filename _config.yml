@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Abstruse Documentation
-email: alexander_reuter@brown.edu
+email: abstrusedocumentation@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a student @ Brown University studying computer science. 
+  I am a computer science student in university. 
   This should serve as a portfolio for my projects as well as my thoughts about life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  alexreuter
 
 # Build settings
 markdown: kramdown
